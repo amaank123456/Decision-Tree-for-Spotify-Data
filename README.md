@@ -61,7 +61,7 @@ Here is the confusion matrix for the test predictions:
 
 # Decision Tree Visualization
 
-[decision_tree.pdf](https://github.com/amaank123456/Decision-Tree-for-Spotify-Data/files/13929730/decision_tree.pdf)
+The Decision Tree can be visualized here: [Decision Tree Visualization](https://github.com/amaank123456/Decision-Tree-for-Spotify-Data/blob/main/decision_tree.pdf)
 
 
 
